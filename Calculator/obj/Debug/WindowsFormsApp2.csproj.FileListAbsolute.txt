@@ -1,0 +1,19 @@
+C:\Users\Ученик\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Ученик\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Ученик\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Ученик\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Ученик\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Ученик\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Ученик\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Ученик\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Ученик\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\MAIN REPOSITORY\My-Creativity-is-impossible-to-understand\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
