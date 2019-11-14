@@ -1,0 +1,9 @@
+C:\Users\Ученик\source\repos\chipher\bin\Debug\chipher.exe.config
+C:\Users\Ученик\source\repos\chipher\bin\Debug\chipher.exe
+C:\Users\Ученик\source\repos\chipher\bin\Debug\chipher.pdb
+C:\Users\Ученик\source\repos\chipher\obj\Debug\chipher.csprojAssemblyReference.cache
+C:\Users\Ученик\source\repos\chipher\obj\Debug\chipher.Form1.resources
+C:\Users\Ученик\source\repos\chipher\obj\Debug\chipher.Properties.Resources.resources
+C:\Users\Ученик\source\repos\chipher\obj\Debug\chipher.csproj.GenerateResource.cache
+C:\Users\Ученик\source\repos\chipher\obj\Debug\chipher.exe
+C:\Users\Ученик\source\repos\chipher\obj\Debug\chipher.pdb
