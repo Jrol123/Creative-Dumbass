@@ -1,0 +1,6 @@
+C:\Users\artem\source\repos\n2\bin\Debug\n2.exe.config
+C:\Users\artem\source\repos\n2\bin\Debug\n2.exe
+C:\Users\artem\source\repos\n2\bin\Debug\n2.pdb
+C:\Users\artem\source\repos\n2\obj\Debug\n2.csprojAssemblyReference.cache
+C:\Users\artem\source\repos\n2\obj\Debug\n2.exe
+C:\Users\artem\source\repos\n2\obj\Debug\n2.pdb
